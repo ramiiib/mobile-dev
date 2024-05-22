@@ -1,4 +1,10 @@
-# myMacq Mobile App
+<h1 align="center">
+  myMacq Mobile App
+</h1>
+
+<div align="center">
+  <video src="https://github.com/ramiiib/mobile-dev-project/assets/64679603/32aa3e44-374a-44a6-96b4-e8dda2ea4949" width="400" />
+</div>
 
 The myMacq Mobile App is a multi-functional student and staff app for campus life, it features:
 - A home page where the student's next class is displayed along with important events such as assignment due dates.
